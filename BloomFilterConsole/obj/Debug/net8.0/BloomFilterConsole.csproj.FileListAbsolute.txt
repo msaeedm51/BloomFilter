@@ -1,0 +1,14 @@
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\BloomFilterConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\BloomFilterConsole.AssemblyInfoInputs.cache
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\BloomFilterConsole.AssemblyInfo.cs
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\BloomFilterConsole.csproj.CoreCompileInputs.cache
+D:\My Practice\BloomFilter\BloomFilterConsole\bin\Debug\net8.0\BloomFilterConsole.exe
+D:\My Practice\BloomFilter\BloomFilterConsole\bin\Debug\net8.0\BloomFilterConsole.deps.json
+D:\My Practice\BloomFilter\BloomFilterConsole\bin\Debug\net8.0\BloomFilterConsole.runtimeconfig.json
+D:\My Practice\BloomFilter\BloomFilterConsole\bin\Debug\net8.0\BloomFilterConsole.dll
+D:\My Practice\BloomFilter\BloomFilterConsole\bin\Debug\net8.0\BloomFilterConsole.pdb
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\BloomFilterConsole.dll
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\refint\BloomFilterConsole.dll
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\BloomFilterConsole.pdb
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\BloomFilterConsole.genruntimeconfig.cache
+D:\My Practice\BloomFilter\BloomFilterConsole\obj\Debug\net8.0\ref\BloomFilterConsole.dll
